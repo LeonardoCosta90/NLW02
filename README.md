@@ -80,6 +80,8 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 ---
 ```
 
+---
+
 ## 🤔 Como contribuir
 
 - Faça um fork do repósitorio
@@ -87,6 +89,8 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 - Faça o commit `git commit -m "Adicionar recurso login "` (EXEMPLO)
 - Faça o push para sua branch `git push origin seu-recurso`
 - Faça um pull request e espere ser aceito ou recusado
+
+---
 
 ## 📝 Licença
 
