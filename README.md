@@ -94,4 +94,4 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte [LICENÇA](https://https://github.com/LeonardoCosta90/NLW02/blob/main/LICENSE) para obter detalhes.
+Este projeto está sob a licença MIT. Consulte [LICENÇA](https://github.com/LeonardoCosta90/NLW02/blob/master/LICENSE) para obter detalhes.
