@@ -7,11 +7,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/LeonardoCosta90/Ecoleta?color=7159C1&style=for-the-badge" alt="Licensa do projeto">
+  <img src="https://img.shields.io/github/license/LeonardoCosta90/NLW01?color=7159C1&style=for-the-badge" alt="Licensa do projeto">
 
-  <img src="https://img.shields.io/github/repo-size/LeonardoCosta90/Ecoleta?color=7159C1&style=for-the-badge" alt="Tamanho do projeto">
+  <img src="https://img.shields.io/github/repo-size/LeonardoCosta90/NLW01?color=7159C1&style=for-the-badge" alt="Tamanho do projeto">
 
-  <img src="https://img.shields.io/github/languages/count/LeonardoCosta90/Ecoleta?color=7159C1&style=for-the-badge" alt="Quantidade de Linguagens">
+  <img src="https://img.shields.io/github/languages/count/LeonardoCosta90/NLW01?color=7159C1&style=for-the-badge" alt="Quantidade de Linguagens">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ Um evento online e totalmente gratuito que vai te ajudar a dar o próximo passo
 
 ## 💻 Projeto
 
-O projeto "Ecoleta" é um projeto desenvolvido baseado na semana internacional do Meio Ambiente. O Objetivo é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha, etc.
+A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!! 
 
 ## 🚀 Tecnologias
 
@@ -54,29 +54,30 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Design
 
-Para ver o protótipo do projeto acesse o [Figma](https://www.figma.com/file/0Me543M2b8KNyOHgQ4FlEH/Ecoleta-(Starter)-(Copy)?node-id=136%3A546)
+Para ver o protótipo do projeto acesse o [Figma](https://www.figma.com/file/WzmuARo2YroAyPnyBcCBpm/Proffy-Web-(Copy))
 
-## ℹ Como usar
+--- 
 
-Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/pt-br/) instalado em seu computador.
+## ⌨ Como executar o projeto
 
-Em sua linha de comando:
+```bash
+# Clonar o repositório
+git clone https://github.com/LeonardoCosta90/NLW02
 
-```powershell
-# Clone este repósitorio
-git clone https://github.com/LeonardoCosta90/NLW01
+# Entrar no diretório
+cd NLW02
 
-# Vá para o repósitorio
-cd .\NLW01\
+# Baixar as dependências
+npm i
+npm install sqlite-async
 
-# Instale as dependências
-npm install
+# Executar o servidor
+npm run dev
+```
 
-# Inicie o site
-npm start
+Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
-# Acesse o site pela linha de comando ou pelo navegador
-start "http://localhost:3000"
+---
 ```
 
 ## 🤔 Como contribuir
