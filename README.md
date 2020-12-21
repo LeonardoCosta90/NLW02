@@ -79,9 +79,6 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ---
 ```
-
----
-
 ## 🤔 Como contribuir
 
 - Faça um fork do repósitorio
@@ -90,8 +87,7 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 - Faça o push para sua branch `git push origin seu-recurso`
 - Faça um pull request e espere ser aceito ou recusado
 
----
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Consulte [LICENÇA](https://github.com/LeonardoCosta90/NLW02/blob/master/LICENSE) para obter detalhes.
+
